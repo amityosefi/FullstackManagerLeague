@@ -18,4 +18,4 @@ Make sure you have [Node.js](http://nodejs.org/) installed.
 10. run ```npm run serve_project``` in the FrontEnd terminal.
 
 
-Your app should now be running on [localhost:3000](http://localhost:3000/).
+Your app should now be running on [localhost:8080](http://localhost:8080/).
